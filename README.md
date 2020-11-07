@@ -4,5 +4,5 @@
 
 *multiple tests OS and browsers can be run in one hit*
 
-**To run the tests:**
+**To run the tests, run the following command:**
 *browserstack-cypress run*
